@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sharontechjays
-- 👀 I’m interested in .Android App Development
-- 🌱 Flutter Developer
+- 🌱 Mobile App Developer
 - 💞
 - 📫 How to reach me ..clubofsharon@gmail.com
 
